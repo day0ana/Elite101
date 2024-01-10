@@ -1,0 +1,7 @@
+# Issue: unable to push replit to Github
+# Solution: git push -u origin main
+# in Shell
+# Credits: https://ask.replit.com/t/using-git-to-push-replit-code-to-github/76064
+
+# Reference Code from Previous Replit"
+# Link: https://replit.com/@daayana/Escape-Room-Project-1#main.py 
